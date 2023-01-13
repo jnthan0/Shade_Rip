@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{9EEE122D-4E45-1FEE-72A9-75BE3C510EA2}",
+	"EngineAssociation": "{5FFACF28-446B-7E25-0487-C7B67C6A24F6}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
